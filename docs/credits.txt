@@ -1,0 +1,19 @@
+Team members:
+
+Lin Yanping Rachel
+Producer
+- Graphics and animation
+
+Lee Jian Herng
+Technical Lead
+- Game engine architecture
+
+Tian Yu
+- Level editor and level design
+- Audio
+
+Darren Sim
+- Physics
+
+Toinh Way Jie
+- Art assets and level design
