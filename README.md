@@ -30,4 +30,4 @@ The game can be terminated by clicking on the `Quit` button on the Main menu and
 
 ## Credits
 
-This game was completed by a team of 5 people over the span of 2 semesters as part of a school project. Roles and contributions of respective team members are listed in the `credits.txt` file.
+This game was completed by a team of 5 people over the span of 2 semesters as part of a sophomore year university project. Roles and contributions of respective team members are listed in the `credits.txt` file.
